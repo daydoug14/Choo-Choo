@@ -1,1 +1,1 @@
-# Choo-Choo
+This program creates and maintains a train schedule at Justin Thyme's Train Depot.  The user (creator of the schedule) enters the train name, it's inital start time its frequency and its destination.  The schule will then be kept up to date with the next arrivaal time and the time until arrival being updated once the page is refreshed.  The data is maintained in the firebase database, and is available to users from other machines.
