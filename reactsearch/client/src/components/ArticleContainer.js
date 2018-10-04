@@ -1,5 +1,5 @@
 import React from "react";
-import Articles from "./Articles";
+import Articles from "./Article";
 import SavedArticles from "./SavedArticles";
 
 const ArticleContainer = props => (
